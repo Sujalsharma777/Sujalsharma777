@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sujal sharma<br>💻 a passionate Front-end Web developer <br>🚀 with expertise in HTML5 CSS3 JavaScript Reactjs. <br><br>
+👋 Hi there! I'm Sujal sharma<br>💻 A passionate MERN Stack Web developer <br>🚀 with expertise in Web Technology's <br><br>
 
 
 # 💻 Tech Stack:
