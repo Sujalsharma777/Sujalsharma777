@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 नमस्ते <br> I'm Sujal sharma<br> MERN stack developer <br>🚀 Idea Build Deployed <br><br>
+> # 👋 नमस्ते 🇮🇳
+  <br> I'm Sujal sharma<br> MERN stack developer <br>🚀 Idea Build Deployed <br><br>
 
 
 # 💻 Tech Stack:
