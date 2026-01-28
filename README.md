@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sujal sharma<br>💻 A passionate MERN Stack Web developer <br>🚀 with expertise in Web Technology's <br><br>
+👋 नमस्ते <br> I'm Sujal sharma<br> MERN stack developer <br>🚀 Idea Build Deployed <br><br>
 
 
 # 💻 Tech Stack:
