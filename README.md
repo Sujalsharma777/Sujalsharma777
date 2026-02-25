@@ -1,4 +1,4 @@
-![This is image](https://github.com/Sujalsharma777/Sujalsharma777/blob/main/img/samurai%20wallpaper.jpeg?raw=true)
+<img src="https://github.com/Sujalsharma777/Sujalsharma777/blob/main/img/samurai%20wallpaper.jpeg?raw=true" height="60%" />
 <br>
 
 <h1 align="center">Hi 👋, I'm Sujal Sharma</h1>
