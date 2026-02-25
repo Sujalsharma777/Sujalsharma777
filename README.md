@@ -1,7 +1,8 @@
 ![This is image](https://github.com/Sujalsharma777/Sujalsharma777/blob/main/img/samurai%20wallpaper.jpeg?raw=true)
 <br>
-![This is image](https://github.com/Sujalsharma777/Sujalsharma777/blob/main/img/Business%20Coding%20GIF.gif?raw=true) 
+
 <h1 align="center">Hi 👋, I'm Sujal Sharma</h1>
+![This is image](https://github.com/Sujalsharma777/Sujalsharma777/blob/main/img/Business%20Coding%20GIF.gif?raw=true) 
 <h3 align="center">Full Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
