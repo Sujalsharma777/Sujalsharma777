@@ -1,4 +1,4 @@
-<p align="">
+<p align="center">
   <img src="https://github.com/Sujalsharma777/Sujalsharma777/blob/main/img/samurai%20wallpaper.jpeg?raw=true" width="700"/>
 </p>
 <br>
